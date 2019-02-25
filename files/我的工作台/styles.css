@@ -597,3 +597,25 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u40_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:127px;
+  height:92px;
+}
+#u40 {
+  position:absolute;
+  left:565px;
+  top:214px;
+  width:127px;
+  height:92px;
+}
+#u41 {
+  position:absolute;
+  left:2px;
+  top:38px;
+  width:123px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
